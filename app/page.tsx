@@ -52,6 +52,7 @@ export default function Home() {
             <div className="flex flex-col items-center justify-center text-center space-y-2">
               <Image
                 alt="Adler Chorale"
+                className="max-w-[200px] sm:max-w-[200px] md:max-w-[200px] lg:max-w-[500px] xl:max-w-[600px] 2xl:max-w-[700px] fill-current"
                 height={300}
                 src="/adler-logo.png"
                 width={300}
