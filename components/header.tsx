@@ -2,36 +2,35 @@ import Link from "next/link";
 import { FC } from "react";
 
 export const Header: FC = () => (
-  <header className="px-4 lg:px-6 h-14 flex items-center bg-[#400000] text-white">
-    <div className="flex items-center">
-      <h1 className="text-2xl font-bold tracking-tighter">A.</h1>
-    </div>
-    <nav className="ml-auto flex gap-4 sm:gap-6">
+  //   <header className="px-4 lg:px-6 flex items-center bg-[#400000] text-white justify-center ">
+  <div className="fixed inset-x-0 h-20 top-0 px-4 lg:px-6 items-center bg-[#400000] text-white justify-center flex  backdrop-blur border-white">
+    <nav className="flex gap-6 lg:gap-20 md:gap-8 py-3 px-6 text-white uppercase min-w-max">
       <Link
-        className="text-sm font-medium hover:underline underline-offset-4 text-white"
+        className="text-sm font-medium hover:underline underline-offset-4"
         href="#"
       >
         Music
       </Link>
 
       <Link
-        className="text-sm font-medium hover:underline underline-offset-4 text-white"
+        className="text-sm font-medium hover:underline underline-offset-4"
         href="#"
       >
         Blogs
       </Link>
       <Link
-        className="text-sm font-medium hover:underline underline-offset-4 text-white"
+        className="text-sm font-medium hover:underline underline-offset-4"
         href="#"
       >
         Events
       </Link>
       <Link
-        className="text-sm font-medium hover:underline underline-offset-4 text-white"
+        className="text-sm font-medium hover:underline underline-offset-4"
         href="#"
       >
         Contact
       </Link>
     </nav>
-  </header>
+  </div>
+  //   </header>
 );
