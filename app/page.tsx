@@ -3,6 +3,7 @@ import { HeroSection } from "@/components/hero-section";
 import { Performances } from "@/components/performances";
 import { UpcomingEvents } from "@/components/upcoming-events";
 import { Blogs } from "@/components/blogs";
+import { Footer } from "@/components/footer";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
         <Performances />
         <UpcomingEvents />
         <Blogs />
+        <Footer />
       </main>
     </div>
   );
