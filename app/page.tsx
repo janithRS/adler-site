@@ -80,16 +80,16 @@ export default function Home() {
               <div className="grid grid-cols-1 gap-10 sm:gap-2 sm:grid-cols-3 lg:grid-cols-3 items-center lg:gap-20 md:gap-20">
                 <div className="overflow-hidden flex items-center justify-center">
                   <Image
-                    alt="Image 1"
+                    alt="Themagula Logo"
                     className="fill-current opacity-100 lg:opacity-75 hover:opacity-100 hover:cursor-pointer transition-opacity duration-300"
                     height={150}
-                    src="/themagula-logo.svg"
+                    src="/Themagula-logo.svg"
                     width={150}
                   />
                 </div>
                 <div className="overflow-hidden flex items-center justify-center">
                   <Image
-                    alt="Image 2"
+                    alt="TKIC Logo"
                     className="fill-current opacity-100 lg:opacity-75 hover:opacity-100  hover:cursor-pointer transition-opacity duration-300"
                     height={100}
                     src="/TKIC-logo.svg"
@@ -98,7 +98,7 @@ export default function Home() {
                 </div>
                 <div className="overflow-hidden flex items-center justify-center">
                   <Image
-                    alt="Image 3"
+                    alt="IHW Logo"
                     className="fill-current opacity-100 lg:opacity-75 hover:opacity-100  hover:cursor-pointer transition-opacity duration-300"
                     height={150}
                     src="/IHW-logo.svg"
