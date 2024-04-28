@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="424.692 441.202 252.753 312.266" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs/>
+<clipPath id="ArtboardFrame">
+<rect height="312.266" width="252.753" x="424.692" y="441.202"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer" vectornator:layerName="Layer">
+<g opacity="1" vectornator:layerName="Group 2">
+<g opacity="1" vectornator:layerName="Group 1">
+<text fill="#ffffff" font-family="Shorelly" font-size="128" opacity="1" stroke="none" text-anchor="start" transform="matrix(1 0 0 1 423.192 657.066)" vectornator:layerName="Text 1" vectornator:width="258.36" x="0" y="0">
+<tspan textLength="255.36" x="0" y="96">TKIC</tspan>
+</text>
+<path d="M552.315 605.735L552.315 554.396L486.366 483.169L481.157 531.521L446.579 509.022L477.504 619.088" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2.5" vectornator:layerName="path"/>
+<path d="M552.431 605.735L552.431 554.396L618.38 483.169L623.589 531.521L658.166 509.022L627.242 619.088" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2.5" vectornator:layerName="path"/>
+<path d="M627.463 619.088C627.463 626.463 593.969 632.441 552.653 632.441C511.335 632.441 477.841 626.463 477.841 619.088C477.841 611.713 511.335 605.735 552.653 605.735C593.969 605.735 627.463 611.713 627.463 619.088Z" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2.5" vectornator:layerName="path"/>
+<path d="M476.19 610.6C480.65 606.675 485.471 605.522 498.65 603.17C513.132 600.585 532.311 599.161 552.653 599.161C572.992 599.161 592.172 600.585 606.654 603.17C619.776 605.511 625.074 607.31 628.998 611.329" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2.5" vectornator:layerName="path"/>
+<path d="M480.648 622.419C489.52 616.811 518.397 612.701 552.652 612.701C587.213 612.701 616.3 616.885 624.887 622.569" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2.5" vectornator:layerName="path"/>
+<path d="M523.91 522.941L552.373 444.852L580.837 522.941" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2.5" vectornator:layerName="path"/>
+<path d="M486.366 483.17L521.703 599.828" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2.5" vectornator:layerName="path"/>
+<path d="M446.579 509.022L488.077 605.246" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2.5" vectornator:layerName="path"/>
+<path d="M618.38 483.17L583.043 599.828" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2.5" vectornator:layerName="path"/>
+<path d="M658.166 509.022L616.669 605.246" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2.5" vectornator:layerName="path"/>
+<path d="M552.372 444.852L552.372 553.089" fill="none" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2.5" vectornator:layerName="path"/>
+<path d="M528.293 510.915L552.483 535.69L576.35 511.248L580.837 523.718L552.432 554.396L523.91 523.718L528.293 510.915Z" fill="#000000" fill-opacity="0" fill-rule="nonzero" opacity="1" stroke="#ffffff" stroke-linecap="butt" stroke-linejoin="miter" stroke-width="2.5" vectornator:layerName="path"/>
+</g>
+</g>
+</g>
+</svg>
