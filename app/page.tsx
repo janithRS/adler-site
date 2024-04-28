@@ -92,7 +92,7 @@ export default function Home() {
                     alt="TKIC Logo"
                     className="fill-current opacity-100 lg:opacity-75 hover:opacity-100  hover:cursor-pointer transition-opacity duration-300"
                     height={100}
-                    src="/TKIC-logo.svg"
+                    src="/TKIC-logo2.svg"
                     width={100}
                   />
                 </div>
