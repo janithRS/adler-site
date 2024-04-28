@@ -7,26 +7,25 @@ export const Header: FC = () => (
     <nav className="flex gap-6 lg:gap-20 md:gap-8 py-3 px-6 text-white uppercase min-w-max">
       <Link
         className="text-sm font-medium hover:underline underline-offset-4"
-        href="#"
+        href="#performances"
       >
-        Music
-      </Link>
-
-      <Link
-        className="text-sm font-medium hover:underline underline-offset-4"
-        href="#"
-      >
-        Blogs
+        Performances
       </Link>
       <Link
         className="text-sm font-medium hover:underline underline-offset-4"
-        href="#"
+        href="#upcoming-events"
       >
         Events
       </Link>
       <Link
         className="text-sm font-medium hover:underline underline-offset-4"
-        href="#"
+        href="#blogs"
+      >
+        Blogs
+      </Link>
+      <Link
+        className="text-sm font-medium hover:underline underline-offset-4"
+        href="#footer"
       >
         Contact
       </Link>
