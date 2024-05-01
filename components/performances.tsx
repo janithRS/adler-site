@@ -4,15 +4,15 @@ import Image from "next/image";
 export const Performances: FC = () => (
   <section
     id="performances"
-    className="w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800"
+    className="w-full py-12 md:py-24 lg:py-32 bg-gray-900"
   >
     <div className="container grid items-center justify-center gap-4 px-4 text-center md:px-6">
-      <div className="space-y-3">
-        <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight">
+      <div className="space-y-3 px-8 md:px-0 lg:px-0">
+        <h2 className="text-xl md:text-2xl lg:text-3xl font-bold tracking-tighter">
           Experience the best choral music in Sri Lanka
         </h2>
-        <p className="mx-auto max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-          Here are some of the best choral music performances by Adler Chorale.
+        <p className="mx-auto max-w-[600px] text-gray-500 text-xs/relaxed md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
+          Here are some of the best performances by Adler.
         </p>
       </div>
       <div className="mx-auto w-full max-w-lg space-y-2 mt-10 flex flex-col items-center justify-center">
@@ -20,18 +20,18 @@ export const Performances: FC = () => (
           <div className="overflow-hidden flex items-center justify-center">
             <Image
               alt="Themagula Logo"
-              className="fill-current opacity-100 lg:opacity-75 hover:opacity-100 hover:cursor-pointer transition-opacity duration-300"
+              className="fill-white opacity-100 lg:opacity-75 hover:opacity-100 hover:cursor-pointer transition-opacity duration-300"
               height={150}
-              src="/Themagula-logo.svg"
+              src="/themagula-white.svg"
               width={150}
             />
           </div>
           <div className="overflow-hidden flex items-center justify-center">
             <Image
               alt="TKIC Logo"
-              className="fill-current opacity-100 lg:opacity-75 hover:opacity-100  hover:cursor-pointer transition-opacity duration-300"
+              className="fill-white opacity-100 lg:opacity-75 hover:opacity-100  hover:cursor-pointer transition-opacity duration-300"
               height={100}
-              src="/TKIC-logo2.svg"
+              src="/tkic-white.svg"
               width={100}
             />
           </div>
@@ -40,7 +40,7 @@ export const Performances: FC = () => (
               alt="IHW Logo"
               className="fill-current opacity-100 lg:opacity-75 hover:opacity-100  hover:cursor-pointer transition-opacity duration-300"
               height={150}
-              src="/IHW-logo.svg"
+              src="/ihw-white.svg"
               width={150}
             />
           </div>

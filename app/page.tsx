@@ -1,9 +1,9 @@
 import { Header } from "@/components/header";
-import { HeroSection } from "@/components/hero-section";
 import { Performances } from "@/components/performances";
 import { UpcomingEvents } from "@/components/upcoming-events";
 import { Blogs } from "@/components/blogs";
 import { Footer } from "@/components/footer";
+import { HeroSection } from "@/components/hero-section";
 
 export default function Home() {
   return (
