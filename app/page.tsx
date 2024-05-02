@@ -15,7 +15,6 @@ export default function Home() {
         <Performances />
         <PhotoGrid />
         <UpcomingEvents />
-        {/* <Blogs /> */}
         <Footer />
       </main>
     </div>
