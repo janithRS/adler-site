@@ -31,7 +31,7 @@ const events: UpcomingEvents[] = [
 export const UpcomingEvents: FC = () => (
   <section
     id="upcoming-events"
-    className="w-full py-12 md:py-24 lg:py-32 border-t"
+    className="w-full py-12 md:py-24 lg:py-32 border-t bg-gray-100"
   >
     <div className="container flex flex-col items-center justify-center gap-4 px-4 text-center md:px-6">
       <div className="space-y-3">

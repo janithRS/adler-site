@@ -4,7 +4,7 @@ import { FC } from "react";
 import { TextGenerateEffect } from "./ui/text-generate-effect";
 
 export const HeroSection: FC = () => (
-  <section className="w-full bg-gray-950 text-white py-12 lg:py-28 md:pt-4">
+  <section className="w-full bg-red-950 text-white py-12 lg:py-28 md:pt-4">
     <div className="container flex flex-col items-center justify-center px-4 space-y-4 md:px-6">
       <div className="flex flex-col items-center justify-center text-center space-y-2">
         <Image
@@ -15,7 +15,7 @@ export const HeroSection: FC = () => (
           width={400}
         />
         <TextGenerateEffect
-          className="mx-auto max-w-[600px] text-gray-200 px-8"
+          className="mx-auto max-w-[600px] text-white px-8"
           words={`Adler is an ensemble of singers and musicians hailing from St.Anthony's College, Kandy.`}
         />
       </div>

@@ -4,6 +4,7 @@ import { UpcomingEvents } from "@/components/upcoming-events";
 import { Blogs } from "@/components/blogs";
 import { Footer } from "@/components/footer";
 import { HeroSection } from "@/components/hero-section";
+import { PhotoGrid } from "@/components/photo-grid";
 
 export default function Home() {
   return (
@@ -12,8 +13,9 @@ export default function Home() {
       <main className="flex-1">
         <HeroSection />
         <Performances />
+        <PhotoGrid />
         <UpcomingEvents />
-        <Blogs />
+        {/* <Blogs /> */}
         <Footer />
       </main>
     </div>
