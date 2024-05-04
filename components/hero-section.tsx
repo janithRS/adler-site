@@ -19,7 +19,7 @@ export const HeroSection: FC = () => (
           className="mx-auto max-w-[600px] text-white px-8"
           words={`Adler is an ensemble of singers and musicians hailing from St.Anthony's College, Kandy.`}
         />
-        <div className="w-[40rem] h-40 relative">
+        <div className="w-full md:w-[40rem] h-40 relative flex justify-center">
           {/* Gradients */}
           <div className="absolute inset-x-20 top-0 bg-gradient-to-r from-transparent via-indigo-500 to-transparent h-[2px] w-3/4 blur-sm" />
           <div className="absolute inset-x-20 top-0 bg-gradient-to-r from-transparent via-indigo-500 to-transparent h-px w-3/4" />
@@ -30,7 +30,7 @@ export const HeroSection: FC = () => (
           <SparklesCore
             background="transparent"
             minSize={0.4}
-            maxSize={1}
+            maxSize={0.5}
             particleDensity={1200}
             className="w-full h-full"
             particleColor="#FFFFFF"
