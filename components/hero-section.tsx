@@ -5,7 +5,7 @@ import { TextGenerateEffect } from "./ui/text-generate-effect";
 import { SparklesCore } from "./ui/sparkles";
 
 export const HeroSection: FC = () => (
-  <section className="w-full bg-[#4C1C24] text-white py-12 lg:py-28 md:pt-4">
+  <section className="w-full bg-[#25000d] text-white py-12 lg:py-28 md:pt-4">
     <div className="container flex flex-col items-center justify-center px-4 space-y-4 md:px-6">
       <div className="flex flex-col items-center justify-center text-center space-y-2">
         <Image
